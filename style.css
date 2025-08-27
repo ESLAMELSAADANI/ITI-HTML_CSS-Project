@@ -1,0 +1,140 @@
+
+        .navLI {
+            display: inline-block;
+            margin-right: 30px;
+        }
+
+        .hrLI {
+            display: inline-block;
+        }
+
+        #title {
+            margin-right: 300px;
+        }
+
+        #dots3 {
+            margin-left: 280px;
+        }
+
+        .nav-section {
+            background-image: url(./imgs/bycle.png);
+            color: white;
+            height: 1000px;
+            border-start-start-radius: 20px;
+            border-start-end-radius: 20px;
+            margin: 20px;
+        }
+
+        .navLI:hover {
+            color: grey;
+            cursor: pointer;
+        }
+
+        .navLI:active {
+            color: black;
+        }
+
+        .BDSection {
+            margin: 20px;
+        }
+
+        #BDP {
+            margin-left: 16px;
+            font-size: 20px;
+            display: inline-block;
+        }
+
+        #BD {
+            display: inline-block;
+            margin-left: 650px;
+            font-size: 100px;
+        }
+
+        button {
+            margin-left: 16px;
+            background-color: white;
+            padding: 5px;
+            border-radius: 10px;
+            border-width: 2px;
+        }
+
+        .imgSectionImg {
+            width: 482px;
+            height: 637px;
+        }
+
+        .imgSection {
+            margin-left: 16px;
+        }
+
+        hr {
+            border: 1px solid black;
+            width: 1450px;
+            margin-top: 50px;
+            margin-right: 50px;
+        }
+
+        .hrTable {
+            border-spacing: 100px 0px;
+        }
+
+        td:first-child {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        .hrP {
+            display: inline-block;
+        }
+
+        .hrP:first-child {
+            margin-right: 465px;
+        }
+
+        .hrP:last-child {
+            margin-left: 938px;
+        }
+
+        .featured {
+            display: inline-block;
+        }
+
+        .featured:first-child {
+            margin-right: 300px;
+        }
+
+        .featured:last-child {
+            margin-left: 300px;
+        }
+
+        .Brands {
+            background-color:#252422;
+        }
+        #st1TD{
+            font-size: 50px;
+            color: #f9cdcd;
+        }
+        #st2TD{
+            margin-top:500px;
+        }
+        .fButt{
+            background-color: #252422;
+            color: #f9cdcd;
+            border-color: #f9cdcd;
+        }
+        pre{
+            display: inline-block;
+            font-size: 20px;
+        }
+        #arrow:hover{
+            cursor: pointer;
+            color: grey;
+        }
+        .footer{
+            background-color: #252422;
+            color: white;
+            height: 150px;
+            border-end-start-radius: 20px;
+            border-end-end-radius: 20px;
+
+        }
