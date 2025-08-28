@@ -28,6 +28,7 @@
         .navLI:hover {
             color: grey;
             cursor: pointer;
+            text-decoration: underline;
         }
 
         .navLI:active {
@@ -118,9 +119,17 @@
             margin-top:500px;
         }
         .fButt{
+            border-radius: 20px;
+            padding-left : 30px;
+            padding-right : 30px;
             background-color: #252422;
             color: #f9cdcd;
             border-color: #f9cdcd;
+        }
+        .fButt:hover{
+            background-color: #f9cdcd;
+            color: #252422;
+            cursor: pointer;
         }
         pre{
             display: inline-block;
@@ -138,3 +147,25 @@
             border-end-end-radius: 20px;
 
         }
+        #secondBTN{
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        #secondBTN:hover{
+            background-color: #252422;
+            color: white;
+            cursor: pointer;
+        }
+        .imgSectionImg:hover{
+            cursor: pointer;
+            transform: scale(1.05);
+            transition: all 0.3s ease-in-out;
+        }
+        .imgP:hover{
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        a{
+            color: #252422;
+        }
+        
