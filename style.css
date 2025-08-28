@@ -1,4 +1,10 @@
 
+        body{
+            font-family: cinzel;
+            font-size: 15px;
+            margin: 0px;
+            padding: 0px;
+        }
         .navLI {
             display: inline-block;
             margin-right: 30px;
@@ -101,11 +107,11 @@
         }
 
         .featured:first-child {
-            margin-right: 300px;
+            margin-right: 200px;
         }
 
         .featured:last-child {
-            margin-left: 300px;
+            margin-left: 200px;
         }
 
         .Brands {
